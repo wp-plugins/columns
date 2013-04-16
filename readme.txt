@@ -12,7 +12,7 @@ This WordPress plugin boosts your website with... you guessed it, columns!
 
 == Description ==
 
-Create a column group with the [column-group] shortcode, then add columns to the group with the [column] shortcode, like this:
+Create a column group with the `[column-group]` shortcode, then add columns to the group with the `[column]` shortcode, like this:
 
     [column-group]
         [column]This is my first column[/column]
@@ -35,7 +35,7 @@ Styles are in columns.css. If you'd like your own margins and stuff, dequeue the
 
 == Screenshots ==
 
-1. Columns
+1. Columns demo
 
 == Changelog ==
 
