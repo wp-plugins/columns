@@ -2,7 +2,7 @@
 Contributors: kovshenin
 Donate Link: http://kovshenin.com/beer/
 Tags: columns, shortcode
-Requires at least: 3.4
+Requires at least: 3.5
 Tested up to: 3.6
 Stable tag: 0.7
 License: GPLv2 or later
@@ -36,6 +36,7 @@ Styles are in columns.css. If you'd like your own margins and stuff, dequeue the
 == Screenshots ==
 
 1. Columns demo
+2. This is how things look in the editor
 
 == Changelog ==
 
