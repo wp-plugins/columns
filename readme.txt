@@ -6,7 +6,7 @@ Requires at least: 3.5
 Tested up to: 3.8
 Stable tag: 0.7.2
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
 This WordPress plugin boosts your website with... you guessed it, columns!
 
