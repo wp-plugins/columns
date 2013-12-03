@@ -6,7 +6,7 @@
  * Author: Konstantin Kovshenin
  * Author URI: http://kovshenin.com
  * License: GPLv2 or later
- * Version: 0.7.1
+ * Version: 0.7.2
  */
 
 class Columns_Plugin {
